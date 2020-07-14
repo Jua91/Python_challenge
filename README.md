@@ -12,7 +12,7 @@
   * The greatest increase in profits (date and amount) over the entire period
   * The greatest decrease in losses (date and amount) over the entire period
 
-* The result looks as follows:
+* The result looks as follows
 ![Financial Analysis](images/Financial_analysis.png)
 
 ## PyPoll
@@ -27,5 +27,5 @@
   * The total number of votes each candidate won
   * The winner of the election based on popular vote.
 
-* The result looks as follows:
+* The result looks as follows
 ![Election Results](images/Election_results.png)
