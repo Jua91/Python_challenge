@@ -13,7 +13,7 @@
   * The greatest decrease in losses (date and amount) over the entire period
 
 * The result looks as follows:
-    ![Financial Analysis](images/Financial_analysis.png)
+![Financial Analysis](images/Financial_analysis.png)
 
 ## PyPoll
 
@@ -28,4 +28,4 @@
   * The winner of the election based on popular vote.
 
 * The result looks as follows:
-    ![Election Results](images/Election_results.png)
+![Election Results](images/Election_results.png)
